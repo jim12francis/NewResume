@@ -51,13 +51,14 @@ body {
            
 <br>
 <br>
-<br><section class="resume-section" id="Educational Attainment">
+<br>
+<section class="resume-section" id="Educational Attainment">
 
 <h2>Educational Attainment</h2>
 
 
-
-<ul>		<li><p>Nursery: Badipa elementary school</p>
+        <ul>
+		<li><p>Nursery: Badipa elementary school</p>
 		<li><p>Elementary: Badipa elementary school </p>
 		<li><p>Highschool: Divine word college of Urdaneta</p>
 	
@@ -70,9 +71,9 @@ body {
 <section class="resume-section" id="Seminars and Training Attended">
     <h2>Seminars and Training Attended</h2>
 
-	 <ul>
+	 
 		<li><p>Yes-O Youth Seminar (Science Club)</p></li>
-		<li><p>Computer Programming Seminar <ul>
+		<li><p>Computer Programming Seminar 
 
 <br>
 <br>
@@ -85,7 +86,7 @@ body {
 	<li><p>Excellent written communication skills</p></li>
 	<li><p>Leadership</p></li>
 	<li><p>Management</p></li>
-	<li><p>Decision Making</p></li><
+	<li><p>Decision Making</p></li>
 	
 	
 <br>

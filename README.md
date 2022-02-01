@@ -48,7 +48,7 @@ body {
 
 
                 </ul>
-            </div>
+           
 <br>
 <br>
 <br><section class="resume-section" id="Educational Attainment">
@@ -60,7 +60,7 @@ body {
 <ul>		<li><p>Nursery: Badipa elementary school</p>
 		<li><p>Elementary: Badipa elementary school </p>
 		<li><p>Highschool: Divine word college of Urdaneta</p>
-	</ul>
+	
 
 
     
@@ -79,13 +79,13 @@ body {
 <section class="resume-section" id="Skills">
 <h2>Skills</h2>
 
-	</ul>
+	
 	<li><p>Coding</p></li>
 	<li><p>Multitasking</p></li>
 	<li><p>Excellent written communication skills</p></li>
 	<li><p>Leadership</p></li>
 	<li><p>Management</p></li>
-	<li><p>Decision Making</p></li></</ul>
+	<li><p>Decision Making</p></li><
 	
 	
 <br>
@@ -112,5 +112,4 @@ body {
 
 
 
-</body>
-</html>
+
